@@ -1,2 +1,4 @@
-# police-chase_snake
-enhanced snake game with an additional game mode where an AI-like cop tries to capture you
+# Enhanced Snake Game with AI-like Police
+
+#### Produced by Thibault Collin within the scope of the M203 Python class
+
