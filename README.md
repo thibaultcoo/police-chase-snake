@@ -28,7 +28,7 @@ handle_accelerators()
 build_pattern()
 ```
 
-*Question 5:* add non-crossable obstacles to the game
+*Question 5: (open question)* we add another game mode where an AI-like cop tries to capture the snake 
 
 ```python 
 police()
