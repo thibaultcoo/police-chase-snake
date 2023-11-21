@@ -22,7 +22,7 @@ ate_food()
 handle_accelerators()
 ```
 
-*Question 4 and 5:* add non-crossable obstacles to the game
+*Question 4 and 5:* add non-crossable obstacles to the game with complexity increasing with difficulty
 
 ```python 
 build_pattern()
